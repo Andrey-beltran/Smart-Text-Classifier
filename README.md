@@ -6,6 +6,7 @@
 
 ## 📋 Tabla de Contenidos
 - [Descripción](#descripción)
+- [How to Run](#run)
 - [Características](#características)
 - [Tecnologías](#tecnologías)
 - [Instalación](#instalación)
@@ -18,6 +19,13 @@
 ## 🎯 Descripción
 
 **Smart Text Classifier** es un sistema completo de análisis de sentimientos que combina inteligencia artificial avanzada con una interfaz web interactiva. El proyecto está diseñado para analizar el sentimiento de textos en múltiples idiomas, ofreciendo tanto análisis individual como por lotes.
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Andrey-beltran/Smart-Text-Classifier.git
+   cd Smart-Text-Classifier
+
 
 ### 🎯 Objetivos del Proyecto
 - **Análisis de Sentimientos**: Clasificación automática de textos en POSITIVE, NEGATIVE, NEUTRAL
@@ -515,5 +523,6 @@ logger.debug("Mensaje de debug")
 - 📧 **Email**: andrey.beltran28@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/smart-text-classifier/issues)
 - 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/smart-text-classifier/discussions)
+
 
 
