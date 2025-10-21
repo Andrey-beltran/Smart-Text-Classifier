@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+streamlit
+matplotlib
+pandas
+numpy
+plotly
+accelerate
+sentencepiece
+protobuf

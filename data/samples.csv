@@ -1,0 +1,41 @@
+text,label
+"I love this product! It's absolutely amazing and exceeded my expectations!",POSITIVE
+"This is terrible, I hate it with a passion. Worst purchase ever!",NEGATIVE
+"The weather is nice today, nothing special but pleasant.",NEUTRAL
+"I'm feeling really sad about the recent news, it's heartbreaking.",NEGATIVE
+"What a wonderful day! Everything is going perfectly!",POSITIVE
+"This movie is incredibly boring, I almost fell asleep.",NEGATIVE
+"I'm so excited about our upcoming trip to Europe!",POSITIVE
+"This food tastes absolutely awful, I can't eat it.",NEGATIVE
+"The book is quite interesting and well-written.",POSITIVE
+"I'm disappointed with the customer service, very poor quality.",NEGATIVE
+"This is the best day of my life! I'm overjoyed!",POSITIVE
+"The presentation was okay, nothing extraordinary.",NEUTRAL
+"I'm furious about this situation, it's completely unacceptable!",NEGATIVE
+"This coffee is delicious, I love the taste!",POSITIVE
+"The meeting was average, nothing to complain about.",NEUTRAL
+"I'm devastated by this loss, it's heartbreaking.",NEGATIVE
+"This concert was absolutely fantastic! Best night ever!",POSITIVE
+"The service was mediocre, could be better.",NEUTRAL
+"I'm thrilled with the results, everything worked perfectly!",POSITIVE
+"This is disgusting, I can't believe how bad it is.",NEGATIVE
+"The sunset is beautiful tonight, very peaceful.",POSITIVE
+"I'm indifferent about this topic, doesn't matter to me.",NEUTRAL
+"This is outstanding! Far beyond what I expected!",POSITIVE
+"I'm frustrated with the delays, this is unacceptable.",NEGATIVE
+"The product works fine, nothing special but functional.",NEUTRAL
+"I'm ecstatic about the promotion! This is amazing!",POSITIVE
+"This is horrible, I regret buying it completely.",NEGATIVE
+"The weather is decent today, not too hot or cold.",NEUTRAL
+"I'm delighted with the outcome, perfect results!",POSITIVE
+"This is appalling, the worst experience I've had.",NEGATIVE
+"The movie was entertaining, I enjoyed watching it.",POSITIVE
+"I'm neutral about this decision, either way is fine.",NEUTRAL
+"This is incredible! I'm so impressed!",POSITIVE
+"I'm annoyed by the constant interruptions.",NEGATIVE
+"The food is good, I like the flavor.",POSITIVE
+"This is acceptable, meets basic requirements.",NEUTRAL
+"I'm overjoyed with the surprise! Best gift ever!",POSITIVE
+"This is terrible quality, I want a refund.",NEGATIVE
+"The book is okay, not great but readable.",NEUTRAL
+
