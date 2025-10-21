@@ -60,15 +60,6 @@ st.markdown("""
 st.markdown('<h1 class="main-header">🧠 Smart Text Classifier (Simple)</h1>', unsafe_allow_html=True)
 st.markdown("### Analiza el sentimiento de cualquier texto usando análisis basado en reglas")
 
-# Advertencia sobre la versión simple
-st.markdown("""
-<div class="warning-box">
-    <h4>⚠️ Versión Simplificada</h4>
-    <p>Esta es una versión simplificada que usa análisis basado en reglas en lugar de IA avanzada. 
-    Para la funcionalidad completa con modelos de Hugging Face, necesitarás resolver el problema de PyTorch en tu sistema.</p>
-</div>
-""", unsafe_allow_html=True)
-
 # Sidebar para configuración
 st.sidebar.header("⚙️ Configuración")
 
@@ -329,3 +320,4 @@ st.markdown("""
     <p>Desarrollado con ❤️ usando Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
+
