@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)](https://huggingface.co)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Tabla de Contenidos
 - [Descripción](#descripción)
@@ -14,8 +13,7 @@
 - [Arquitectura](#arquitectura)
 - [API Reference](#api-reference)
 - [Ejemplos](#ejemplos)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## 🎯 Descripción
 
@@ -517,4 +515,5 @@ logger.debug("Mensaje de debug")
 - 📧 **Email**: andrey.beltran28@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/smart-text-classifier/issues)
 - 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/smart-text-classifier/discussions)
+
 
