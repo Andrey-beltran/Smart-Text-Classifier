@@ -514,56 +514,7 @@ logger.debug("Mensaje de debug")
 ## 📞 Soporte
 
 ### **Obtener Ayuda**
-- 📧 **Email**: tu-email@ejemplo.com
+- 📧 **Email**: andrey.beltran28@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/smart-text-classifier/issues)
 - 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/smart-text-classifier/discussions)
 
-### **Recursos Adicionales**
-- 📚 **Documentación**: [docs/](docs/)
-- 🎥 **Tutoriales**: [YouTube Channel](https://youtube.com/tu-canal)
-- 📖 **Blog**: [Medium](https://medium.com/@tu-usuario)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-```
-MIT License
-
-Copyright (c) 2024 Tu Nombre
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## 🙏 Agradecimientos
-
-- **Hugging Face**: Por los modelos pre-entrenados
-- **Streamlit**: Por el framework web
-- **Plotly**: Por las visualizaciones interactivas
-- **Comunidad Python**: Por las librerías de código abierto
-
----
-
-<div align="center">
-
-**¡Gracias por usar Smart Text Classifier!** 🎉
-
-[⭐ Star](https://github.com/tu-usuario/smart-text-classifier) | [🐛 Report Bug](https://github.com/tu-usuario/smart-text-classifier/issues) | [✨ Request Feature](https://github.com/tu-usuario/smart-text-classifier/issues)
-
-</div>
